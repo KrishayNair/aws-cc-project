@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestorage",
+  "policyUUID": "0b2ea5ef",
+  "bucketName": "awsccprojectce7d5fbccb3b4e1cb5f4c0c181e4fd5e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger5714d5e8",
+  "groupAccess": {}
+}
